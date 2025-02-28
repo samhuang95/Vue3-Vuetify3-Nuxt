@@ -1,0 +1,96 @@
+.log-sub-title {
+  color: #7a7d80;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 175% */
+  letter-spacing: 0.15px;
+}
+
+.dx-card-container {
+  display: flex;
+  padding: 24px 32px;
+  width: 100%;
+  flex-direction: column;
+  gap: 24px;
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.dx-row-gap4-spacing {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.dx-col-gap4-spacing {
+  display: flex;
+  gap: 4px;
+}
+
+.dx-row-gap16-spacing {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.h5-bold {
+  color: #252728;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 133.333% */
+}
+
+.body-2 {
+  color: #313335;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+}
+
+.dx-lg-button {
+  height: 44px !important;
+  width: 100% !important;
+}
+
+.dx-md-button {
+  height: 36px !important;
+  width: 100% !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.divider-line {
+  flex: 1;
+  border: none;
+  border-top: 1px solid #ccccce;
+}
+
+/* -------------【Vuetify default setting】------------- */
+.v-input__details {
+  display: none !important;
+}
+
+.v-btn__content {
+  text-transform: capitalize !important;
+}
+
+a {
+  text-decoration: none;
+  color: #5167f6;
+}
+
+.text-error {
+  color: #e84b4b !important;
+}

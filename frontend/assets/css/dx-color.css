@@ -1,0 +1,248 @@
+/* -------------【Primary】------------- */
+.primary-50 {
+  color: #eef0fe;
+}
+
+.primary-100 {
+  color: #c9d0fc;
+}
+
+.primary-200 {
+  color: #afb9fb;
+}
+
+.primary-300 {
+  color: #8a99f9;
+}
+
+.primary-400 {
+  color: #7485f8;
+}
+
+.primary-500 {
+  color: #5167f6;
+}
+
+.primary-600 {
+  color: #4a5ee0;
+}
+
+.primary-700 {
+  color: #3a49af;
+}
+
+.primary-800 {
+  color: #2d3987;
+}
+
+.primary-900 {
+  color: #222b67;
+}
+/* -------------【Neutral】------------- */
+.neutral-00 {
+  color: #ffffff;
+}
+
+.neutral-50 {
+  color: #eeefef;
+}
+
+.neutral-100 {
+  color: #ccccce;
+}
+
+.neutral-200 {
+  color: #b3b4b6;
+}
+
+.neutral-300 {
+  color: #909294;
+}
+
+.neutral-400 {
+  color: #7a7d80;
+}
+
+.neutral-500 {
+  color: #595c60;
+}
+
+.neutral-600 {
+  color: #515457;
+}
+
+.neutral-700 {
+  color: #3f4144;
+}
+
+.neutral-800 {
+  color: #313335;
+}
+
+.neutral-900 {
+  color: #252728;
+}
+
+/* -------------【Red】------------- */
+.red-50 {
+  color: #ffeeee;
+}
+
+.red-100 {
+  color: #ffc9c9;
+}
+
+.red-200 {
+  color: #ffafaf;
+}
+
+.red-300 {
+  color: #ff8b8b;
+}
+
+.red-400 {
+  color: #ff7575;
+}
+
+.red-500 {
+  color: #ff5252;
+}
+
+.red-600 {
+  color: #e84b4b;
+}
+
+.red-700 {
+  color: #b53a3a;
+}
+
+.red-800 {
+  color: #8c2d2d;
+}
+
+.red-900 {
+  color: #6b2222;
+}
+
+/* -------------【Yellow】------------- */
+.yellow-50 {
+  color: #fff9e6;
+}
+
+.yellow-100 {
+  color: #ffecb2;
+}
+
+.yellow-200 {
+  color: #ffe28d;
+}
+
+.yellow-300 {
+  color: #ffd559;
+}
+
+.yellow-400 {
+  color: #ffcd39;
+}
+
+.yellow-500 {
+  color: #ffc107;
+}
+
+.yellow-600 {
+  color: #e8b006;
+}
+
+.yellow-700 {
+  color: #b58905;
+}
+
+.yellow-800 {
+  color: #8c6a04;
+}
+
+.yellow-900 {
+  color: #6b5103;
+}
+
+/* -------------【Green】------------- */
+.green-50 {
+  color: #edf7ee;
+}
+
+.green-100 {
+  color: #c8e6c9;
+}
+
+.green-200 {
+  color: #addaaf;
+}
+
+.green-300 {
+  color: #87c98a;
+}
+
+.green-400 {
+  color: #70bf73;
+}
+
+.green-500 {
+  color: #4caf50;
+}
+
+.green-600 {
+  color: #459f49;
+}
+
+.green-700 {
+  color: #367c39;
+}
+
+.green-800 {
+  color: #2a602c;
+}
+
+.green-900 {
+  color: #204a22;
+}
+
+/* -------------【Blue】------------- */
+.blue-50 {
+  color: #e9f5fe;
+}
+
+.blue-100 {
+  color: #badefb;
+}
+
+.blue-200 {
+  color: #99cff9;
+}
+
+.blue-300 {
+  color: #6ab9f7;
+}
+
+.blue-400 {
+  color: #4dabf5;
+}
+
+.blue-500 {
+  color: #2196f3;
+}
+
+.blue-600 {
+  color: #1e89dd;
+}
+
+.blue-700 {
+  color: #176bad;
+}
+
+.blue-800 {
+  color: #125386;
+}
+
+.blue-900 {
+  color: #0e3f66;
+}
